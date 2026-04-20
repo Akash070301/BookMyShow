@@ -44,7 +44,7 @@ const userLogin = async(req,res)=>{
         }
         res.send({
             success:true,
-            message: "Loggin sucessful"
+            message: "Login successful"
         })
 
     }
